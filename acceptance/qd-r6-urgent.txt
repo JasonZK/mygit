@@ -1,0 +1,1 @@
+Fixture for the R6 staging acceptance run.
