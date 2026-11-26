@@ -1,0 +1,3 @@
+case,initial_stock,order_id,submit_count,expected_stock
+single_submit,10,demo-1001,1,9
+retry_same_order,10,demo-1002,2,9
